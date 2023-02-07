@@ -1,1 +1,2 @@
 # odin-recipes
+This repo consists of an index page with links to three different webpages each containig one of my personal favourite recipes to make. I am a big foodie and my mission in life is to combine delicious food with healthy food so I can eat without guilt.
